@@ -7,19 +7,19 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
+  name: Luis Ignacio Deniz Navarro # Nombre completo
   tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: navarroluis360@gmail.com
+  phone: 3141172151
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  linkedin: https://www.linkedin.com/in/luis-navarro-495662240/
+  github: https://github.com/Deniz-Navarro
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: '@Nacho_Navarro69'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
